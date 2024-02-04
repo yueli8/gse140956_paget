@@ -1,0 +1,51 @@
+Term	Count	FDR
+Proteasome	42	1.5581962108108E-12
+Protein export	20	4.43470259523048E-05
+Oxidative phosphorylation	108	1.47496832148702E-23
+Nucleocytoplasmic transport	83	5.18391801088792E-16
+Non-alcoholic fatty liver disease	115	2.84274660399153E-20
+Protein processing in endoplasmic reticulum	126	4.79669235715323E-22
+Parkinson disease	196	8.9312845624944E-34
+Ribosome	123	3.3878960534524E-21
+Citrate cycle (TCA cycle)	22	0.000843757799384
+Polycomb repressive complex	61	5.70713629322425E-10
+Mitophagy - animal	74	8.84872321562484E-12
+Ubiquitin mediated proteolysis	100	5.82576771860149E-15
+Chemical carcinogenesis - reactive oxygen species	156	6.47180603909445E-23
+SNARE interactions in vesicular transport	23	0.001581458788581
+Mismatch repair	16	0.01353812823059
+DNA replication	25	0.000903984602815
+mRNA surveillance pathway	67	1.82756671554859E-09
+Huntington disease	211	7.14317420127081E-30
+Cell cycle	108	5.67416227050725E-15
+Amyotrophic lateral sclerosis	249	3.01021634615355E-34
+Nucleotide excision repair	43	6.82420647268729E-06
+Base excision repair	30	0.000327446288984
+Circadian rhythm	23	0.002784363293788
+Thyroid cancer	25	0.001581458788581
+Thermogenesis	156	1.64543804560554E-20
+Autophagy - animal	110	5.8532757480372E-14
+RNA degradation	52	2.57161119825718E-06
+Prion disease	179	6.00398060954794E-22
+Apoptosis - multiple species	21	0.007371165461028
+Propanoate metabolism	21	0.007371165461028
+Terpenoid backbone biosynthesis	15	0.03789997377513
+Biosynthesis of nucleotide sugars	24	0.004317612174186
+RNA polymerase	22	0.007286118006121
+Diabetic cardiomyopathy	131	5.83184368827827E-15
+Vasopressin-regulated water reabsorption	28	0.002477646982198
+Viral life cycle - HIV-1	40	0.000179778508097
+Colorectal cancer	54	1.03975674929699E-05
+Autophagy - other	20	0.018659043000205
+Endometrial cancer	36	0.00077737196995
+Endocytosis	154	5.82576771860149E-15
+Alzheimer disease	236	7.56331959469696E-23
+Chronic myeloid leukemia	46	0.000219539061768
+Valine, leucine and isoleucine degradation	29	0.005252502343539
+Carbon metabolism	69	3.71008764176601E-06
+Basal transcription factors	27	0.008359985995474
+Glyoxylate and dicarboxylate metabolism	18	0.045805568361352
+Renal cell carcinoma	41	0.000875056304615
+Pancreatic cancer	45	0.000496366924115
+Salmonella infection	147	3.4491943392562E-12
+Cellular senescence	92	1.24890390222344E-07
